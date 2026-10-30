@@ -1,15 +1,13 @@
 # app-dev
 My first repository
-
 # My Favorite Series/Movie
 
-## Reply 1988
-**Reply 1988** is a South Korean drama released in 2015. It tells the story of five childhood friends living in Ssangmun-dong, Seoul. The series focuses on their childhood memories, family relationships, first love, and friendships.
+**Title:** Reply 1988  
+**Country:** South Korea  
+**Release Year:** 2015  
+**Genre:** Slice of Life, Comedy, Romance, Family
 
-**Genre:** Slice of life, comedy, romance, family
-
-### What Is Reply 1988 About?
-Set in the late 1980s, the series gives a glimpse of what life was like during that time. It follows the personal stories of each family, showing their struggles, dreams, relationships, and experiences. Along the way, viewers also get to see the changes that come with growing up, especially when childhood friendships slowly turn into something more.
+**Reply 1988** is a South Korean drama about five childhood friends growing up in Ssangmun-dong, Seoul, during the late 1980s. It shows their everyday lives, from spending time with friends and experiencing first love to dealing with family matters and the challenges of growing up. Through their stories, the series highlights the importance of friendship, family, and the memories we make with the people around us.
 
 ### Reasons Why This Is My Favorite Series
 - I like how the characters' experiences feel familiar, as if I'm watching stories that could happen in my own life.
